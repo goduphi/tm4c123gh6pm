@@ -14,6 +14,7 @@ TM4C123GH6PM Datasheet - https://www.ti.com/lit/ds/symlink/tm4c123gh6pm.pdf
   
 ### Folder descriptions
 - Common Terminal Interface: Contains a library of functions which can be used to communicate through a serial communication device (UART).
+cli.c can be used as a means of debugging the library functions.
 - Wait: Contains function which aid in busy waiting
 
 ### Compilation instructions:
